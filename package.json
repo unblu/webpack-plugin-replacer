@@ -1,0 +1,23 @@
+{
+  "author": {
+    "email": "denis.trueby@unblu.com",
+    "name": "Denis Trüby",
+    "url": "unblu.com"
+  },
+  "dependencies": {},
+  "description": "Plugin to replace content of modules or chunks",
+  "devDependencies": {},
+  "directories": {},
+  "files": [
+    "lib"
+  ],
+  "license": "",
+  "main": "lib/index.js",
+  "name": "webpack-plugin-replacer",
+  "peerDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-sources": "^1.0.1"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}

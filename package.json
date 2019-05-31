@@ -4,11 +4,10 @@
     "name": "Denis Trüby",
     "url": "unblu.com"
   },
-  "dependencies": {
+  "description": "Plugin to replace content of modules or chunks",
+  "devDependencies": {
     "webpack": "^4.32.2"
   },
-  "description": "Plugin to replace content of modules or chunks",
-  "devDependencies": {},
   "directories": {},
   "files": [
     "lib"
@@ -21,5 +20,5 @@
     "webpack-sources": "^1.3.0"
   },
   "scripts": {},
-  "version": "2.0.0"
+  "version": "1.0.0"
 }

@@ -6,7 +6,7 @@
   },
   "description": "Plugin to replace content of modules or chunks",
   "devDependencies": {
-    "webpack": "^5.82.0"
+    "webpack": "^5.82.1"
   },
   "directories": {},
   "files": [
@@ -16,7 +16,7 @@
   "main": "lib/index.js",
   "name": "webpack-plugin-replacer",
   "peerDependencies": {
-    "webpack": "^5.82.0",
+    "webpack": "^5.82.1",
     "webpack-sources": "^3.2.3"
   },
   "scripts": {},
